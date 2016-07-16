@@ -1,5 +1,10 @@
 # HadoopLab
 Bigdata Practice in CS of NJU
+大数据实验Hadoop分析金庸的江湖
+
+##TEAM
+Zefan-Ge, Haojie-Ma, Zheng-Gu
+
 ##代码目录结构说明
 提供优化后源码文件，下面说明各个文件：
   * **HadoopTool.java：**           包含了一些小tool
